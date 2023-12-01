@@ -27,3 +27,4 @@ docker run --name user-portal -p 3000:3000 -d user-portal:1.0
 
 Note:
 The API will be running in port 3000
+Node version : 16.14.0 
